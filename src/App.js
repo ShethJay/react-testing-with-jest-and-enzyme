@@ -3,11 +3,6 @@ import Header from './components/header';
 import Headline from './components/headline'
 import './app.scss';
 
-
-import Header from './components/header';
-import Headline from './components/headline';
-import './app.scss';
-
 const tempArr = [{
   fName: 'Jay',
   lName: 'Sheth',
